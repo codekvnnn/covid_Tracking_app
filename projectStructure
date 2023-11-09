@@ -1,0 +1,14 @@
+covid-tracker/
+├── backend/
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── models.py
+│   └── api/
+│       ├── __init__.py
+│       ├── covid_data.py
+│       └── user_management.py
+└── frontend/
+    ├── src/
+    ├── angular.json
+    ├── ...
+    └── package.json
